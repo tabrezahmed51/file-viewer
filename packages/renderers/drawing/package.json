@@ -62,7 +62,7 @@
   "dependencies": {
     "@file-viewer/core": "workspace:2.2.4",
     "@panzoom/panzoom": "^4.6.2",
-    "mermaid": "^11.15.0",
+    "mermaid": "^11.16.1",
     "plantuml-encoder": "^1.4.0",
     "roughjs": "^4.6.6"
   },
