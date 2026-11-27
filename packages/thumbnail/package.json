@@ -48,12 +48,12 @@
     "modern-screenshot": "^4.7.0"
   },
   "devDependencies": {
-    "@xmldom/xmldom": "0.9.10",
+    "@xmldom/xmldom": "0.9.12",
     "epubjs": "0.3.93",
     "esbuild": "^0.28.1",
     "happy-dom": "^21.0.4",
     "typescript": "^6.0.3",
-    "vitest": "4.1.11"
+    "vitest": "5.1.2"
   },
   "license": "Apache-2.0"
 }
