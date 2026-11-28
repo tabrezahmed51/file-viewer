@@ -89,9 +89,9 @@
   },
   "devDependencies": {
     "@types/node": "^25.8.0",
-    "esbuild": "^0.28.1",
+    "esbuild": "^0.28.2",
     "typescript": "^6.0.3",
-    "vite": "^8.1.7"
+    "vite": "^8.2.4"
   },
   "license": "Apache-2.0"
 }
