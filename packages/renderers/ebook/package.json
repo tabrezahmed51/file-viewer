@@ -64,7 +64,7 @@
     "@xmldom/xmldom": "0.9.12",
     "@types/pako": "^2.0.4",
     "epubjs": "0.3.93",
-    "esbuild": "^0.28.1",
+    "esbuild": "^0.28.2",
     "typescript": "^6.0.3"
   },
   "license": "Apache-2.0"
